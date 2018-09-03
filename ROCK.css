@@ -1,6 +1,6 @@
 @import url('https://rawgit.com/meninaveneno/bondade20/master/Chat-Color.css');
 @import url('https://rawgit.com/meninaveneno/bondade20/master/patentes.css');
-@import url('https://rawgit.com/meninaveneno/ROCK-STORY/master/users.css');
+@import url('https://rawgit.com/meninaveneno/ROCK-STORY/master/usuario.css');
 @import url('https://rawgit.com/JubileuW/-Bond-o-/master/extras/chat-color.css');
 @import url('https://rawgit.com/meninaveneno/bondade20/master/background.css');
 @import url('https://rawgit.com/JubileuW/-Bond-o-/master/colors.css');
@@ -17,7 +17,7 @@
 
 .left-side-wrapper { background-position-x: center !important; background-position-y: bottom !important;
 background-repeat: no-repeat !important; background-size: 1600px 800px !important;
-max-height: 900px !important; background-image: url(https://wallpapercave.com/wp/natcvJ1.jpg) !important;
+max-height: 900px !important; background-image: url(http://www.wallpapers-web.com/data/out/171/5299301-rock-music-hd-wallpapers.jpg) !important;
 }  
 
 #dj-booth{background:url(https://i.imgur.com/pIxFe1A.png)20px 125px no-repeat;background-size:300px}
